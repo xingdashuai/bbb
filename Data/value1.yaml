@@ -1,0 +1,33 @@
+#name: "lili"
+#Name: "lili"
+
+#value1:
+#  name1: "张三"
+#  name2: "里斯"
+#value4:
+#  - 1p
+#  - 2
+#value5: [1,2,3]
+
+
+#value6:
+#  - name: "lili"
+#  - name: "lili"
+#value7: true
+#value8: false
+#valur9: True
+#value10: False
+#valuex: no
+#valuey: yes
+#valuell: 122
+#value12: 12.0000
+value13: ~
+value16:
+value17: null
+value18: Null
+value19: ""
+value20: 2020-11-11 12:12:12
+value21: 2020-11-11
+value22: 12:12:12
+value23: 2020-11-11-02:02:02
+value24: 2020-01-11
